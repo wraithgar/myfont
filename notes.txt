@@ -1,0 +1,16 @@
+myfont.js re-created the original font in a raw binary file
+myfont.psftx is the new version with additions/fixes
+
+https://git.zap.org.au/git/console-fonts-utils.git
+converted raw to psftx to psf
+
+bitsnpicas (apt install, needs java)
+bitsnpicas convertbitmap -f ttf -o myfont.ttf myfont.psf
+ttf works as-is to recreate the original font
+
+bitsnpicas convertbitmap -f otb -o myfont.otb myfont.psf
+otb doesn't work in ubuntu cause fixed fonts are totally disabled
+
+fontforge
+
+Converts otb to fontforge format, which can then export to anything modern
