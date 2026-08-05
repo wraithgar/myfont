@@ -1,0 +1,52 @@
+breve is a circle
+circumflex is a caret
+caron is upside down caret
+
+circumflex
+
+........
+....X...
+...X.X..
+........
+
+caron
+
+........
+...X.X..
+....X...
+........
+
+tilde
+
+..XXX.XX
+.XX.XXX.
+
+breve
+
+...X..X.
+....XX..
+........
+
+diaeresis
+
+...X.X..
+
+capital cedilla
+
+....X...
+....XX..
+.....X..
+..XXX...
+
+small cedilla
+
+....X...
+.....X..
+..XXX...
+........
+
+dot above
+
+........
+....X...
+........
