@@ -6973,7 +6973,7 @@ U+0105 # LATIN SMALL LETTER A WITH OGONEK
 ..XXX.XX
 .....XX.
 ....XX..
-.....XXx
+.....XXX
 ........
 
 ENDGLYPH
@@ -8283,7 +8283,7 @@ U+014A # LATIN CAPITAL LETTER ENG
 .XX...XX
 .XX...XX
 ......XX
-......Xx
+......XX
 ....XXX.
 ........
 
@@ -9181,7 +9181,7 @@ XX...XX.
 ..XXX.XX
 .....XX.
 ....XX..
-.....XXx
+.....XXX
 ........
 
 ENDGLYPH
