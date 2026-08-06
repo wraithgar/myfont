@@ -14,3 +14,9 @@ otb doesn't work in ubuntu cause fixed fonts are totally disabled
 fontforge
 
 Converts otb to fontforge format, which can then export to anything modern
+
+This font is 8x16
+VGA always added a blank 9th column EXCEPT code points 0xC0 to 0xDF inclusive which repeat the 8th column
+psftxio also requires that 0x1C0-0X1DF repeat the 8th column totally
+
+The correct aspect ratio is 3:4
