@@ -31,7 +31,7 @@ x-height 28 (height of x and thus unextended lower case letters)
 TODO diacritical re-centering
 keep letters centered like non-diacritical version?
 
-acute
+x acute
 breve
 caron
 cedilla
