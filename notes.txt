@@ -28,9 +28,6 @@ descender line 61 / 4 from bottom (bottom of descenders like p)
 midline 20 (resting on body of lower case like a)
 x-height 28 (height of x and thus unextended lower case letters)
 
-TODO diacritical re-centering
-keep letters centered like non-diacritical version?
-
 acute
 breve
 caron
