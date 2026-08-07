@@ -20,3 +20,12 @@ VGA always added a blank 9th column EXCEPT code points 0xC0 to 0xDF inclusive wh
 psftxio also requires that 0x1C0-0X1DF repeat the 8th column totally
 
 The correct aspect ratio is 3:4
+Fonts should be centered, favoring a one-pixel shift to the left on odd-numbered widths
+baseline 49 (16 from bottom)
+ascender line row 8 (top of tall letters like h)
+cap height 40 (capital letter height like A)
+descender line 61 / 4 from bottom (bottom of descenders like p)
+midline 20 (resting on body of lower case like a)
+x-height 28 (height of x and thus unextended lower case letters)
+
+TODO diaeresis etc re-centering
