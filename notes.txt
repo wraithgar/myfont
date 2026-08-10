@@ -1,5 +1,6 @@
-kerning
+kerning / centering
 vertical advance?
+ampersand
 
 Diacritical list for reference:
 
