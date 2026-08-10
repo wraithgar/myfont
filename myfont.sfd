@@ -21,7 +21,7 @@ OS2Version: 5
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1786342554
-ModificationTime: 1786383586
+ModificationTime: 1786385793
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -83,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 24 8 2
+WinInfo: 40 8 2
 BeginChars: 65537 543
 
 StartChar: .notdef
@@ -1677,7 +1677,7 @@ StartChar: ampersand
 Encoding: 38 38 39
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -1788,51 +1788,36 @@ StartChar: asterisk
 Encoding: 42 42 43
 Width: 2700
 GlyphClass: 1
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-900 800 m 1,0,-1
- 600 800 l 1,1,-1
- 600 1200 l 1,2,-1
- 900 1200 l 1,3,-1
- 900 800 l 1,0,-1
-1800 1200 m 1,4,-1
- 2100 1200 l 1,5,-1
- 2100 800 l 1,6,-1
- 1800 800 l 1,7,-1
- 1800 1200 l 1,4,-1
-1800 1200 m 1,8,-1
- 1500 1200 l 1,9,-1
- 1500 400 l 1,10,-1
- 1200 400 l 1,11,-1
- 1200 1200 l 1,12,-1
- 900 1200 l 1,13,-1
- 900 1600 l 1,14,-1
- 300 1600 l 1,15,-1
- 300 2000 l 1,16,-1
- 900 2000 l 1,17,-1
- 900 2400 l 1,18,-1
- 600 2400 l 1,19,-1
- 600 2800 l 1,20,-1
- 900 2800 l 1,21,-1
- 900 2400 l 1,22,-1
- 1200 2400 l 1,23,-1
- 1200 3200 l 1,24,-1
- 1500 3200 l 1,25,-1
- 1500 2400 l 1,26,-1
- 1800 2400 l 1,27,-1
- 1800 2800 l 1,28,-1
- 2100 2800 l 1,29,-1
- 2100 2400 l 1,30,-1
- 1800 2400 l 1,31,-1
- 1800 2000 l 1,32,-1
- 2400 2000 l 1,33,-1
- 2400 1600 l 1,34,-1
- 1800 1600 l 1,35,-1
- 1800 1200 l 1,8,-1
+1500 1500 m 1,0,-1
+ 1200 1500 l 1,1,-1
+ 1200 2300 l 1,2,-1
+ 700 1800 l 1,3,-1
+ 500 2000 l 1,4,-1
+ 1100 2600 l 1,5,-1
+ 400 2600 l 1,6,-1
+ 400 3000 l 1,7,-1
+ 1100 3000 l 1,8,-1
+ 500 3600 l 1,9,-1
+ 700 3800 l 1,10,-1
+ 1200 3300 l 1,11,-1
+ 1200 4100 l 1,12,-1
+ 1500 4100 l 1,13,-1
+ 1500 3300 l 1,14,-1
+ 2000 3800 l 1,15,-1
+ 2200 3600 l 1,16,-1
+ 1600 3000 l 1,17,-1
+ 2300 3000 l 1,18,-1
+ 2300 2600 l 1,19,-1
+ 1600 2600 l 1,20,-1
+ 2200 2000 l 1,21,-1
+ 2000 1800 l 1,22,-1
+ 1500 2300 l 1,23,-1
+ 1500 1500 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: plus
@@ -4915,7 +4900,7 @@ SplineSet
  1600 400 l 1,17,-1
  1600 0 l 1,0,-1
 EndSplineSet
-Validated: 2097157
+Validated: 5
 EndChar
 
 StartChar: paragraph
@@ -4964,7 +4949,7 @@ SplineSet
  1600 1600 l 1,3,-1
  1600 1200 l 1,0,-1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: cedilla
@@ -15227,7 +15212,7 @@ SplineSet
  1600 400 l 1,17,-1
  1600 0 l 1,0,-1
 EndSplineSet
-Validated: 2097157
+Validated: 5
 EndChar
 
 StartChar: pi
@@ -17416,7 +17401,7 @@ SplineSet
  1600 2000 l 1,3,-1
  1600 1200 l 1,0,-1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: radical
@@ -21719,14 +21704,14 @@ zz!<<*!s8W-!s8N'!z!!!$!s8W-!s8W-!z!!*'!s8W-!s8W*!zzs8W-!s8W-!rr<$!z!!*'!
 s8W-!s8W*!zzs8W-!s8W-!rr<$!s8W-!s8W-!s8W-!z!!*'!s8W-!s8W-!s8N'!zs8W-!s8W-!
 s8W-!z!!*'!s8W-!s8W-!s8N'!z
 BDFChar: 43 42 27 3 23 4 31
-zz!<<*!zzzz!!*'!rr<$!zzz!!!$!s8N'!zzzzs8W*!zz!!!$!s8N'!!<<*!!!!$!s8N'!zs8W*!
-!!*'!rr<$!s8W*!z!<<*!!!!$!s8N'!!<<*!z!!*'!rr<$!s8W*!!!*'!rr<$!z!!*'!s8W-!
-s8W*!zz!!!$!s8W-!s8W-!zzzs8W-!s8W-!rr<$!zz!<<*!s8W-!s8N'!zs8W-!s8W-!s8W-!
-s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
-s8W-!s8W-!s8W-!z!!*'!s8W-!s8W*!zz!!!$!s8W-!s8W-!zzzs8W-!s8W-!rr<$!zz!<<*!
-s8W-!s8N'!z!!!$!s8N'!!<<*!!!!$!s8N'!zs8W*!!!*'!rr<$!s8W*!z!<<*!!!!$!s8N'!
-!<<*!z!!*'!rr<$!s8W*!!!*'!rr<$!zz!<<*!zzzz!!*'!rr<$!zzz!!!$!s8N'!zzzzs8W*!
-zz
+zz!<<*!zzzz!!*'!rr<$!zzz!!!$!s8N'!zzs8W*!zs8W*!zs8W*!!<<*!rr<$!!<<*!zs8W-!
+!!*'!s8W*!!!*'!rr<$!s8W-!rr<$!s8W-!rr<'!s8N'!s8W-!rr<$!!!*'!s8W*!s8W*!s8W-!
+rr<$!zs8W-!s8W-!s8W-!rr<$!z!!*'!s8W-!s8W-!rr<$!zzs8W-!s8W-!rr<$!zz!!*'!
+s8W-!rr<$!zs8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!z!!!$!s8W-!s8N'!zz!!!$!s8W-!
+s8W-!zz!!!$!s8W-!s8W-!s8N'!z!!!$!s8W-!s8W-!s8W-!z!!!$!s8W-!!<<*!!<<*!s8N'!
+!!!$!s8W-!!!*'!rr<'!s8W-!!!!$!s8W-!!!!$!s8N'!!<<*!s8N'!s8W-!zs8W*!!!!$!
+s8W*!!<<*!z!<<*!z!<<*!zz!!*'!rr<$!zzz!!!$!s8N'!zzzzs8W*!zz
 BDFChar: 44 43 27 5 22 8 27
 z!!*'!s8W-!zzzs8W-!s8N'!zz!!*'!s8W-!zzzs8W-!s8N'!zz!!*'!s8W-!zzzs8W-!s8N'!
 zz!!*'!s8W-!z!!*'!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
