@@ -1,0 +1,16 @@
+StartChar: SF100000
+Encoding: 9472 9472 460
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 1600 m 1,0,-1
+ 0 2000 l 1,1,-1
+ 2700 2000 l 1,2,-1
+ 2700 1600 l 1,3,-1
+ 0 1600 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,20 @@
+StartChar: asciicircum
+Encoding: 94 94 95
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1350 3600 m 5,0,-1
+ 750 2800 l 5,1,-1
+ 150 2800 l 5,2,-1
+ 150 3200 l 5,3,-1
+ 1050 4400 l 5,4,-1
+ 1650 4400 l 5,5,-1
+ 2550 3200 l 5,6,-1
+ 2550 2800 l 5,7,-1
+ 1950 2800 l 5,8,-1
+ 1350 3600 l 5,0,-1
+EndSplineSet
+EndChar
