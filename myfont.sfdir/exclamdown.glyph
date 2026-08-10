@@ -1,5 +1,5 @@
 StartChar: exclamdown
-Encoding: 161 161 130
+Encoding: 161 161 129
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  1800 1600 l 1,7,-1
  1400 -1200 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar

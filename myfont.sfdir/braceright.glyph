@@ -1,5 +1,5 @@
 StartChar: braceright
-Encoding: 125 125 126
+Encoding: 125 125 125
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  1650 1200 l 1,17,-1
  1650 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

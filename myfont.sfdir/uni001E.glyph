@@ -1,5 +1,5 @@
 StartChar: uni001E
-Encoding: 30 30 32
+Encoding: 30 30 31
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -18,4 +18,5 @@ SplineSet
  100 400 l 1,9,-1
  100 1200 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

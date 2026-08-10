@@ -1,8 +1,8 @@
 StartChar: asterisk
-Encoding: 42 42 43
+Encoding: 42 42 42
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -32,4 +32,5 @@ SplineSet
  1500 2300 l 1,23,-1
  1500 1500 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: dollar
-Encoding: 36 36 37
+Encoding: 36 36 36
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -46,4 +46,5 @@ SplineSet
  1200 1200 l 1,35,-1
  300 2000 l 1,8,-1
 EndSplineSet
+Validated: 1
 EndChar

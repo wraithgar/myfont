@@ -1,5 +1,5 @@
 StartChar: parenright
-Encoding: 41 41 42
+Encoding: 41 41 41
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -20,4 +20,5 @@ SplineSet
  2250 800 l 5,11,-1
  1650 0 l 5,0,-1
 EndSplineSet
+Validated: 1
 EndChar

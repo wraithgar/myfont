@@ -1,5 +1,5 @@
 StartChar: percent
-Encoding: 37 37 38
+Encoding: 37 37 37
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -24,4 +24,5 @@ SplineSet
  2200 0 l 1,13,-1
  1600 0 l 1,10,-1
 EndSplineSet
+Validated: 1
 EndChar

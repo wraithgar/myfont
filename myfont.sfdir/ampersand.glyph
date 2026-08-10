@@ -1,5 +1,5 @@
 StartChar: ampersand
-Encoding: 38 38 39
+Encoding: 38 38 38
 Width: 2700
 GlyphClass: 1
 Flags: W
@@ -39,4 +39,5 @@ SplineSet
  1220 520 l 1,28,-1
  1670 1220 l 1,25,-1
 EndSplineSet
+Validated: 1
 EndChar
