@@ -2,7 +2,7 @@ StartChar: uniFFFD
 Encoding: 65533 65533 537
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
