@@ -80,12 +80,13 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "BitsNPicas: myfont: 2026" "" "Version 1.0" "" "" "Made with Bits'n'Picas by Kreative Software" "" "" "http://www.kreativekorp.com/software/bitsnpicas/"
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 184 8 5
+WinInfo: 576 8 5
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "default top and bottom" "top" "default top and bottom"

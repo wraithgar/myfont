@@ -2,7 +2,7 @@ StartChar: uniFFFD
 Encoding: 65533 65533 537
 Width: 2700
 GlyphClass: 1
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
@@ -52,4 +52,5 @@ SplineSet
  1600 1600 l 1,4,-1
 EndSplineSet
 Validated: 5
+Comment: "yy is the destruction of all things"
 EndChar
