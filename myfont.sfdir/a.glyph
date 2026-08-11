@@ -2,7 +2,8 @@ StartChar: a
 Encoding: 97 97 97
 Width: 2700
 GlyphClass: 1
-Flags: W
+Flags: WO
+AnchorPoint: "top" 1350 3000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -26,5 +27,4 @@ SplineSet
  1050 400 l 1,16,-1
  1650 400 l 1,13,-1
 EndSplineSet
-Validated: 5
 EndChar
