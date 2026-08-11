@@ -22,7 +22,7 @@ OS2Version: 5
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1786342554
-ModificationTime: 1786406845
+ModificationTime: 1786407532
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -80,13 +80,12 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "BitsNPicas: myfont: 2026" "" "Version 1.0" "" "" "Made with Bits'n'Picas by Kreative Software" "" "" "http://www.kreativekorp.com/software/bitsnpicas/"
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 144 8 5
+WinInfo: 56 8 5
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "'mark' Mark Positioning lookup 0-1" "top" "'mark' Mark Positioning lookup 0-1"
