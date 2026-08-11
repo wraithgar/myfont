@@ -1,7 +1,7 @@
 StartChar: ringcmb
 Encoding: 778 778 600
 Width: 2700
-Flags: WO
+Flags: W
 AnchorPoint: "top" 1350 4000 mark 0
 LayerCount: 2
 Fore

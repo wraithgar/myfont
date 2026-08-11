@@ -1,4 +1,4 @@
-BitmapFont: 64 602 48 16 8
+BitmapFont: 64 611 48 16 8
 BDFRefChar: 161 65 0 0 N
 BDFRefChar: 162 65 0 0 N
 BDFRefChar: 168 69 0 0 N
@@ -27,6 +27,8 @@ BDFRefChar: 294 79 0 0 N
 BDFRefChar: 295 111 0 0 N
 BDFRefChar: 296 79 0 0 N
 BDFRefChar: 297 111 0 0 N
+BDFRefChar: 298 79 0 0 N
+BDFRefChar: 299 111 0 0 N
 BDFRefChar: 308 83 0 0 N
 BDFRefChar: 309 115 0 0 N
 BDFRefChar: 310 83 0 0 N
@@ -36,6 +38,8 @@ BDFRefChar: 323 117 0 0 N
 BDFRefChar: 326 85 0 0 N
 BDFRefChar: 327 117 0 0 N
 BDFRefChar: 328 85 0 0 N
+BDFRefChar: 330 85 0 0 N
+BDFRefChar: 331 117 0 0 N
 BDFRefChar: 334 87 0 0 N
 BDFRefChar: 335 119 0 0 N
 BDFRefChar: 336 89 0 0 N
@@ -47,5 +51,15 @@ BDFRefChar: 341 90 0 0 N
 BDFRefChar: 342 122 0 0 N
 BDFRefChar: 343 90 0 0 N
 BDFRefChar: 344 122 0 0 N
+BDFRefChar: 551 185 0 0 N
+BDFRefChar: 552 217 0 0 N
 BDFRefChar: 558 107 0 0 N
+BDFRefChar: 602 161 0 0 N
+BDFRefChar: 603 193 0 0 N
+BDFRefChar: 604 185 0 0 N
+BDFRefChar: 605 217 0 0 N
+BDFRefChar: 606 185 0 0 N
+BDFRefChar: 607 217 0 0 N
+BDFRefChar: 608 162 0 0 N
+BDFRefChar: 609 194 0 0 N
 EndBitmapFont
