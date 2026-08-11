@@ -1,8 +1,9 @@
 StartChar: uni01DB
-Encoding: 475 475 555
+Encoding: 475 475 553
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
-Refer: 540 768 N 1 0 0 1 -250 684 2
+Refer: 538 768 N 1 0 0 1 -250 684 2
 Refer: 185 220 N 1 0 0 1 0 0 3
 EndChar

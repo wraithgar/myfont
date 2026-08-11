@@ -22,7 +22,7 @@ OS2Version: 5
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1786342554
-ModificationTime: 1786411880
+ModificationTime: 1786418791
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -57,7 +57,7 @@ OS2XHeight: 2800
 OS2Vendor: 'KBnP'
 OS2CodePages: 00000000.80d40000
 OS2UnicodeRanges: a00000af.000079eb.00000020.00000000
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "diacritical" { "default top and bottom"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ShortTable: maxp 16
@@ -85,8 +85,8 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 80 8 5
+WinInfo: 192 8 5
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "bottom" "'mark' Mark Positioning lookup 0-1" "top" "'mark' Mark Positioning lookup 0-1"
+AnchorClass2: "bottom" "default top and bottom" "top" "default top and bottom"
 EndSplineFont

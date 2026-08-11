@@ -1,6 +1,7 @@
 StartChar: Gcaron
-Encoding: 486 486 557
+Encoding: 486 486 555
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
 Refer: 94 94 N 1 0 0 -1 300 8784 2

@@ -1,6 +1,7 @@
 StartChar: gcaron
-Encoding: 487 487 558
+Encoding: 487 487 556
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
 Refer: 94 94 N 1 0 0 -1 150 7584 2

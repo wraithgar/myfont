@@ -1,5 +1,6 @@
 StartChar: asciicircum
 Encoding: 94 94 94
+AltUni2: 0002c6.ffffffff.0
 Width: 2700
 GlyphClass: 1
 Flags: W

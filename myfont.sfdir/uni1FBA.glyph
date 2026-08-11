@@ -1,8 +1,9 @@
 StartChar: uni1FBA
-Encoding: 8122 8122 585
+Encoding: 8122 8122 583
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
-Refer: 540 768 N 1 0 0 1 -1284 -800 2
-Refer: 357 913 N 1 0 0 1 0 0 2
+Refer: 538 768 N 1 0 0 1 -1284 -800 2
+Refer: 355 913 N 1 0 0 1 0 0 2
 EndChar

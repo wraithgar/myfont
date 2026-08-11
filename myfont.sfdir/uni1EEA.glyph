@@ -1,8 +1,9 @@
 StartChar: uni1EEA
-Encoding: 7914 7914 581
+Encoding: 7914 7914 579
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
-Refer: 540 768 N 1 0 0 1 346 184 2
-Refer: 543 431 N 1 0 0 1 0 0 3
+Refer: 538 768 N 1 0 0 1 346 184 2
+Refer: 541 431 N 1 0 0 1 0 0 3
 EndChar

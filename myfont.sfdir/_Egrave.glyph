@@ -2,8 +2,9 @@ StartChar: Egrave
 Encoding: 200 200 165
 Width: 2700
 GlyphClass: 1
+Flags: W
 LayerCount: 2
 Fore
-Refer: 540 768 N 1 0 0 1 100 0 2
+Refer: 538 768 N 1 0 0 1 100 0 2
 Refer: 69 69 N 1 0 0 1 0 0 3
 EndChar

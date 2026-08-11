@@ -1,6 +1,7 @@
 StartChar: uni01CD
-Encoding: 461 461 545
+Encoding: 461 461 543
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
 Refer: 94 94 N 1 0 0 -1 150 8784 2

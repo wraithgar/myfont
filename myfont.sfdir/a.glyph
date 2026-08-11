@@ -2,7 +2,7 @@ StartChar: a
 Encoding: 97 97 97
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 AnchorPoint: "top" 1350 3000 basechar 0
 LayerCount: 2
 Fore

@@ -1,6 +1,7 @@
 StartChar: uni01D4
-Encoding: 468 468 552
+Encoding: 468 468 550
 Width: 2700
+Flags: W
 LayerCount: 2
 Fore
 Refer: 94 94 N 1 0 0 -1 -50 7584 2

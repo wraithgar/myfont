@@ -2,9 +2,9 @@ StartChar: ncaron
 Encoding: 328 328 291
 Width: 2700
 GlyphClass: 1
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
-Refer: 94 94 N 1 0 0 -1 -100 7584 2
+Refer: 594 780 N 1 0 0 1 -100 -1016 2
 Refer: 110 110 N 1 0 0 1 0 0 3
 EndChar
