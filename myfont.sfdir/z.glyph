@@ -2,7 +2,7 @@ StartChar: z
 Encoding: 122 122 122
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 1350 0 basechar 0
 LayerCount: 2
 Fore
