@@ -2,7 +2,7 @@ StartChar: X
 Encoding: 88 88 88
 Width: 2700
 GlyphClass: 1
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 1350 0 basechar 0
 AnchorPoint: "top" 1350 4000 basechar 0
 LayerCount: 2
