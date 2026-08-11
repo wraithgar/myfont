@@ -1,0 +1,20 @@
+StartChar: backslash
+Encoding: 92 92 92
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+150 2800 m 5,0,-1
+ 150 3600 l 5,1,-1
+ 450 3600 l 5,2,-1
+ 450 3200 l 5,3,-1
+ 2550 800 l 5,4,-1
+ 2550 0 l 5,5,-1
+ 2250 0 l 5,6,-1
+ 2250 400 l 5,7,-1
+ 150 2800 l 5,0,-1
+EndSplineSet
+Validated: 1
+EndChar

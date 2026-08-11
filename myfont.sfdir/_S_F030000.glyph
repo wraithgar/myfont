@@ -1,0 +1,18 @@
+StartChar: SF030000
+Encoding: 9488 9488 461
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+900 -1600 m 1,0,-1
+ 900 1600 l 1,1,-1
+ 0 1600 l 1,2,-1
+ 0 2000 l 1,3,-1
+ 1500 2000 l 1,4,-1
+ 1500 -1600 l 1,5,-1
+ 900 -1600 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,24 @@
+StartChar: parenright
+Encoding: 41 41 41
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1650 0 m 5,0,-1
+ 450 0 l 5,1,-1
+ 450 400 l 5,2,-1
+ 1050 400 l 5,3,-1
+ 1350 800 l 5,4,-1
+ 1350 3200 l 5,5,-1
+ 1050 3600 l 5,6,-1
+ 450 3600 l 5,7,-1
+ 450 4000 l 5,8,-1
+ 1650 4000 l 5,9,-1
+ 2250 3200 l 5,10,-1
+ 2250 800 l 5,11,-1
+ 1650 0 l 5,0,-1
+EndSplineSet
+Validated: 1
+EndChar

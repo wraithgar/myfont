@@ -1,0 +1,19 @@
+StartChar: comma
+Encoding: 44 44 44
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1200 -400 m 1,0,-1
+ 1200 800 l 1,1,-1
+ 1800 800 l 1,2,-1
+ 1800 -400 l 5,3,-1
+ 1500 -800 l 5,4,-1
+ 900 -800 l 1,5,-1
+ 900 -400 l 1,6,-1
+ 1200 -400 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

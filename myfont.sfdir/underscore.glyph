@@ -1,0 +1,16 @@
+StartChar: underscore
+Encoding: 95 95 95
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 2700 0 l 1,1,-1
+ 2700 -400 l 1,2,-1
+ 0 -400 l 1,3,-1
+ 0 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

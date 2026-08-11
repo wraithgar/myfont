@@ -1,0 +1,24 @@
+StartChar: uni0011
+Encoding: 17 17 18
+Width: 2700
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2500 0 m 1,0,-1
+ 1900 0 l 1,1,-1
+ 100 1600 l 1,2,-1
+ 100 2000 l 5,3,-1
+ 1900 3600 l 5,4,-1
+ 2500 3600 l 1,5,-1
+ 2500 2800 l 1,6,-1
+ 2200 2800 l 1,7,-1
+ 1600 2000 l 1,8,-1
+ 1600 1600 l 1,9,-1
+ 2200 800 l 1,10,-1
+ 2500 800 l 1,11,-1
+ 2500 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
