@@ -1,9 +1,11 @@
-BitmapFont: 64 598 48 16 8
+BitmapFont: 64 602 48 16 8
 BDFRefChar: 161 65 0 0 N
+BDFRefChar: 162 65 0 0 N
 BDFRefChar: 168 69 0 0 N
 BDFRefChar: 179 79 0 0 N
 BDFRefChar: 185 85 0 0 N
 BDFRefChar: 193 97 0 0 N
+BDFRefChar: 194 97 0 0 N
 BDFRefChar: 200 101 0 0 N
 BDFRefChar: 204 270 0 0 N
 BDFRefChar: 211 111 0 0 N
@@ -33,6 +35,7 @@ BDFRefChar: 322 85 0 0 N
 BDFRefChar: 323 117 0 0 N
 BDFRefChar: 326 85 0 0 N
 BDFRefChar: 327 117 0 0 N
+BDFRefChar: 328 85 0 0 N
 BDFRefChar: 334 87 0 0 N
 BDFRefChar: 335 119 0 0 N
 BDFRefChar: 336 89 0 0 N
