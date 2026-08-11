@@ -3,6 +3,7 @@ Encoding: 71 71 71
 Width: 2700
 GlyphClass: 1
 Flags: W
+AnchorPoint: "bottom" 1350 0 basechar 0
 AnchorPoint: "top" 1650 4000 basechar 0
 LayerCount: 2
 Fore

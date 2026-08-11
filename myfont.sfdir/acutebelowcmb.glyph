@@ -1,0 +1,15 @@
+StartChar: acutebelowcmb
+Encoding: 791 791 611
+Width: 2700
+Flags: W
+AnchorPoint: "bottom" 1500 -800 mark 0
+LayerCount: 2
+Fore
+SplineSet
+1500 -1600 m 1,0,-1
+ 900 -1600 l 1,1,-1
+ 1200 -1000 l 1,2,-1
+ 1800 -1000 l 1,3,-1
+ 1500 -1600 l 1,0,-1
+EndSplineSet
+EndChar
