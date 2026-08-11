@@ -3,6 +3,7 @@ Encoding: 104 104 104
 Width: 2700
 GlyphClass: 1
 Flags: W
+AnchorPoint: "bottom" 1350 0 basechar 0
 AnchorPoint: "top" 750 4200 basechar 0
 LayerCount: 2
 Fore

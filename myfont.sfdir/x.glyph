@@ -3,6 +3,7 @@ Encoding: 120 120 120
 Width: 2700
 GlyphClass: 1
 Flags: W
+AnchorPoint: "bottom" 1350 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -28,5 +29,4 @@ SplineSet
  200 400 l 1,19,-1
  800 1200 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
