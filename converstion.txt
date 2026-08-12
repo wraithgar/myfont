@@ -10,7 +10,7 @@ myfont as generated:
 2800 mid line
 0 base line
 -800 descender line
-2100 character width
+2100 character width (A)
 
 int10h font (scaled):
 
