@@ -1,0 +1,45 @@
+Notes for when it comes time to convert to 1000em:
+
+myfont as generated:
+
+"pixel" is 300x400
+6400 em size
+2700 glyph width
+4000 cap height
+4000 ascender line
+2800 mid line
+0 base line
+-800 descender line
+2100 character width
+
+int10h font (scaled):
+
+"pixel" is 66.66x100
+1600 em size
+599 glyph width (599.9999, should be 600)
+900 cap height
+900 ascender line
+600 mid line
+0 base line
+-200 descender line
+467 width
+
+4:1 ratio, perfect except for the 2/3 conversion on pixel width
+/6.4 to get from 6400 to 1000
+* 0.15625
+
+myfont scaled myfont to opentype size:
+
+"pixel" is 46.875x62.5
+
+Grid:
+46.875 93.75 140.625 187.5 234.375 281.25 328.125 375 421.875
+62.5 125 187.5 250 312.5 375 437.5 500 562.5 625 687.5 750 812.5 875 937.5 1000
+
+1000 em size
+421.875 glyph width
+625 cap height
+625 ascender line
+437.5 mid line
+0 base line
+-125 descender line
