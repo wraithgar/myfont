@@ -40,6 +40,6 @@ Grid:
 421.875 glyph width
 625 cap height
 625 ascender line
-437.5 mid line
+437.5 mid line (438 x height)
 0 base line
 -125 descender line

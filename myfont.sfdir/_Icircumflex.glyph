@@ -1,8 +1,8 @@
 StartChar: Icircumflex
 Encoding: 427 206 171
-Width: 2700
+Width: 422
 GlyphClass: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 593 770 N 1 0 0 1 0 0 2

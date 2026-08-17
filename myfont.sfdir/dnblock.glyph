@@ -1,15 +1,15 @@
 StartChar: dnblock
 Encoding: 763 9604 507
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 1600 m 1,0,-1
- 2700 1600 l 1,1,-1
- 2700 -1600 l 1,2,-1
- 0 -1600 l 1,3,-1
- 0 1600 l 1,0,-1
+0 250 m 1,0,-1
+ 422 250 l 1,1,-1
+ 422 -250 l 1,2,-1
+ 0 -250 l 1,3,-1
+ 0 250 l 1,0,-1
 EndSplineSet
 EndChar

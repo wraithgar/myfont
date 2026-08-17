@@ -1,22 +1,22 @@
 StartChar: z
 Encoding: 378 122 122
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
-AnchorPoint: "bottom" 1350 0 basechar 0
+AnchorPoint: "bottom" 211 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1800 2400 m 1,0,-1
- 300 2400 l 1,1,-1
- 300 2800 l 1,2,-1
- 2400 2800 l 1,3,-1
- 2400 2000 l 1,4,-1
- 1200 400 l 1,5,-1
- 2400 400 l 1,6,-1
- 2400 0 l 1,7,-1
- 300 0 l 1,8,-1
- 300 400 l 1,9,-1
- 1800 2400 l 1,0,-1
+281 375 m 1,0,-1
+ 47 375 l 1,1,2
+ 47 376 47 376 47 438 c 1,3,-1
+ 375 438 l 1,4,-1
+ 375 312 l 1,5,6
+ 376 312 376 312 188 62 c 1,7,-1
+ 375 62 l 1,8,-1
+ 375 0 l 1,9,-1
+ 47 0 l 1,10,-1
+ 47 62 l 1,11,-1
+ 281 375 l 1,0,-1
 EndSplineSet
 EndChar

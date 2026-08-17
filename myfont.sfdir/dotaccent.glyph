@@ -1,10 +1,10 @@
 StartChar: dotaccent
 Encoding: 607 729 351
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
-AnchorPoint: "top" 1350 3000 basechar 0
+AnchorPoint: "top" 211 469 basechar 0
 LayerCount: 2
 Fore
-Refer: 590 775 N 1 0 0 1 0 -800 2
+Refer: 590 775 N 1 0 0 1 0 -125 2
 EndChar

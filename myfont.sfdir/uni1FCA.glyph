@@ -1,9 +1,9 @@
 StartChar: uni1FCA
 Encoding: 841 8138 585
-Width: 2700
-Flags: W
+Width: 422
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 538 768 N 1 0 0 1 -1884 -800 2
+Refer: 538 768 N 1 0 0 1 -294 -125 2
 Refer: 360 919 N 1 0 0 1 0 0 2
 EndChar

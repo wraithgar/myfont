@@ -1,10 +1,10 @@
 StartChar: Gbreve
 Encoding: 507 286 251
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
-Refer: 598 774 N 1 0 0 1 300 -100 2
+Refer: 598 774 N 1 0 0 1 47 -16 2
 Refer: 71 71 N 1 0 0 1 0 0 3
 EndChar

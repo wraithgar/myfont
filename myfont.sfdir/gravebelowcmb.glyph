@@ -1,15 +1,15 @@
 StartChar: gravebelowcmb
 Encoding: 866 790 610
-Width: 2700
+Width: 422
 Flags: W
-AnchorPoint: "bottom" 1200 -800 mark 0
+AnchorPoint: "bottom" 188 -125 mark 0
 LayerCount: 2
 Fore
 SplineSet
-1800 -1600 m 1,0,-1
- 1200 -1600 l 1,1,-1
- 900 -1000 l 1,2,-1
- 1500 -1000 l 1,3,-1
- 1800 -1600 l 1,0,-1
+281 -250 m 1,0,1
+ 282 -250 282 -250 188 -250 c 1,2,-1
+ 141 -156 l 1,3,-1
+ 234 -156 l 1,4,-1
+ 281 -250 l 1,0,1
 EndSplineSet
 EndChar

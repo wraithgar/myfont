@@ -1,15 +1,15 @@
 StartChar: emdash
 Encoding: 660 8212 404
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-400 1600 m 1,0,-1
- 400 2000 l 1,1,-1
- 2200 2000 l 1,2,-1
- 2200 1600 l 1,3,-1
- 400 1600 l 1,0,-1
+62 250 m 1,0,-1
+ 62 312 l 1,1,-1
+ 344 312 l 1,2,-1
+ 344 250 l 1,3,-1
+ 62 250 l 1,0,-1
 EndSplineSet
 EndChar

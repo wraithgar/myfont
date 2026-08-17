@@ -1,21 +1,23 @@
 StartChar: L
 Encoding: 332 76 76
-Width: 2700
+Width: 422
 GlyphClass: 1
 Flags: W
-AnchorPoint: "bottom" 1500 0 basechar 0
-AnchorPoint: "top" 700 4000 basechar 0
+HStem: 0 62<164.365 359> 605 20G<62 156>
+VStem: 62 94<68.783 625>
+AnchorPoint: "bottom" 234 0 basechar 0
+AnchorPoint: "top" 109 625 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-400 400 m 2,0,-1
- 400 4000 l 1,1,-1
- 1000 4000 l 1,2,-1
- 1000 800 l 6,3,4
- 1000 400 1000 400 1300 400 c 6,5,-1
- 2300 400 l 5,6,-1
- 2300 0 l 1,7,-1
- 700 0 l 2,8,9
- 400 0 400 0 400 400 c 2,0,-1
+62 62 m 2,0,-1
+ 62 625 l 1,1,-1
+ 156 625 l 1,2,-1
+ 156 125 l 6,3,4
+ 156 62 156 62 203 62 c 6,5,-1
+ 359 62 l 5,6,-1
+ 359 0 l 1,7,-1
+ 109 0 l 2,8,9
+ 62 0 62 0 62 62 c 2,0,-1
 EndSplineSet
 EndChar
