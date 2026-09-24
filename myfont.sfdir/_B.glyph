@@ -2,7 +2,7 @@ StartChar: B
 Encoding: 322 66 66
 Width: 422
 GlyphClass: 1
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 188 0 basechar 0
 AnchorPoint: "top" 211 625 basechar 0
 LayerCount: 2
