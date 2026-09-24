@@ -2,7 +2,7 @@ StartChar: j
 Encoding: 362 106 106
 Width: 422
 GlyphClass: 1
-Flags: WO
+Flags: W
 AnchorPoint: "bottom" 211 -188 basechar 0
 LayerCount: 2
 Fore
