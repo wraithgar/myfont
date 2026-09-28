@@ -14,6 +14,10 @@ rm -f build/myfont.*
 # bitsnpicas convertbitmap -f ttf -o build/myfont27x64.ttf build/myfont27x64.psf
 # bitsnpicas convertbitmap -f otb -o build/myfont27x64.otb build/myfont27x64.psf
 
-~/Development/console-fonts-utils/psftx2psf myfont.psftx build/myfont.psf
-bitsnpicas convertbitmap -f ttf -o build/myfont.ttf build/myfont.psf
-bitsnpicas convertbitmap -f otb -o build/myfont.otb build/myfont.psf
+# ~/Development/console-fonts-utils/psftx2psf myfont.psftx build/myfont.psf
+# bitsnpicas convertbitmap -f ttf -o build/myfont.ttf build/myfont.psf
+# bitsnpicas convertbitmap -f otb -o build/myfont.otb build/myfont.psf
+
+~/Development/console-fonts-utils/psftx2psf myfont-pixel.psftx build/myfont-pixel.psf
+bitsnpicas convertbitmap -f ttf -o build/myfont-pixel.ttf build/myfont-pixel.psf
+bitsnpicas convertbitmap -f otb -o build/myfont-pixel.otb build/myfont-pixel.psf
