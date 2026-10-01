@@ -1,7 +1,7 @@
 StartChar: gravecomb
 Encoding: 768 768 541
 Width: 2700
-Flags: W
+Flags: WO
 AnchorPoint: "Top" 1450 4000 mark 0
 LayerCount: 2
 Fore
