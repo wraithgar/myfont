@@ -1,0 +1,23 @@
+StartChar: circumflexcmb
+Encoding: 770 770 543
+Width: 2700
+Flags: W
+AnchorPoint: "Top" 1350 4000 mark 0
+LayerCount: 2
+Fore
+SplineSet
+1200 4000 m 25,0,-1
+ 600 4000 l 25,1,-1
+ 600 4400 l 25,2,-1
+ 900 4400 l 25,3,-1
+ 900 4800 l 25,4,-1
+ 1800 4800 l 25,5,-1
+ 1800 4400 l 25,6,-1
+ 2100 4400 l 25,7,-1
+ 2100 4000 l 25,8,-1
+ 1500 4000 l 25,9,-1
+ 1500 4400 l 25,10,-1
+ 1200 4400 l 25,11,-1
+ 1200 4000 l 25,0,-1
+EndSplineSet
+EndChar
